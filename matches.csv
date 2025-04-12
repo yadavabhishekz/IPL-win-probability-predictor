@@ -1,0 +1,964 @@
+match_id,city,winner,total_runs,date
+1,Bangalore,Kolkata Knight Riders,222,2008-04-18
+2,Chandigarh,Chennai Super Kings,240,2008-04-19
+3,Delhi,Delhi Capitals,129,2008-04-19
+4,Mumbai,Royal Challengers Bengaluru,165,2008-04-20
+5,Kolkata,Kolkata Knight Riders,110,2008-04-20
+6,Jaipur,Rajasthan Royals,166,2008-04-21
+7,Hyderabad,Delhi Capitals,142,2008-04-22
+8,Chennai,Chennai Super Kings,208,2008-04-23
+9,Hyderabad,Rajasthan Royals,214,2008-04-24
+10,Chandigarh,Punjab Kings,182,2008-04-25
+11,Bangalore,Rajasthan Royals,135,2008-04-26
+12,Chennai,Chennai Super Kings,147,2008-04-26
+13,Mumbai,Sunrisers Hyderabad,154,2008-04-27
+14,Chandigarh,Punjab Kings,158,2008-04-27
+15,Bangalore,Chennai Super Kings,178,2008-04-28
+16,Kolkata,Mumbai Indians,137,2008-04-29
+17,Delhi,Delhi Capitals,191,2008-04-30
+18,Hyderabad,Punjab Kings,164,2008-05-01
+19,Jaipur,Rajasthan Royals,196,2008-05-01
+20,Chennai,Delhi Capitals,169,2008-05-02
+21,Chandigarh,Punjab Kings,178,2008-05-03
+22,Bangalore,Royal Challengers Bengaluru,156,2008-05-03
+23,Mumbai,Mumbai Indians,162,2008-05-04
+24,Jaipur,Rajasthan Royals,109,2008-05-04
+25,Bangalore,Punjab Kings,126,2008-05-05
+26,Chennai,Sunrisers Hyderabad,144,2008-05-06
+27,Mumbai,Mumbai Indians,103,2008-05-07
+28,Delhi,Chennai Super Kings,187,2008-05-08
+29,Kolkata,Kolkata Knight Riders,129,2008-05-08
+30,Jaipur,Rajasthan Royals,140,2008-05-09
+31,Chennai,Chennai Super Kings,181,2008-05-10
+32,Hyderabad,Kolkata Knight Riders,204,2008-05-11
+33,Jaipur,Rajasthan Royals,156,2008-05-11
+34,Chandigarh,Punjab Kings,143,2008-05-12
+35,Kolkata,Kolkata Knight Riders,133,2008-05-13
+36,Mumbai,Mumbai Indians,156,2008-05-14
+37,Delhi,Delhi Capitals,194,2008-05-15
+38,Mumbai,Mumbai Indians,67,2008-05-16
+40,Jaipur,Rajasthan Royals,197,2008-05-17
+41,Hyderabad,Mumbai Indians,178,2008-05-18
+43,Bangalore,Delhi Capitals,154,2008-05-19
+44,Kolkata,Rajasthan Royals,147,2008-05-20
+45,Mumbai,Punjab Kings,189,2008-05-21
+46,Chennai,Royal Challengers Bengaluru,126,2008-05-21
+47,Chandigarh,Punjab Kings,175,2008-05-23
+48,Delhi,Delhi Capitals,176,2008-05-24
+49,Chennai,Rajasthan Royals,211,2008-05-24
+50,Hyderabad,Royal Challengers Bengaluru,165,2008-05-25
+51,Kolkata,Kolkata Knight Riders,174,2008-05-25
+52,Jaipur,Rajasthan Royals,145,2008-05-26
+53,Hyderabad,Chennai Super Kings,147,2008-05-27
+54,Bangalore,Mumbai Indians,122,2008-05-28
+55,Chandigarh,Punjab Kings,221,2008-05-28
+56,Mumbai,Rajasthan Royals,192,2008-05-30
+57,Mumbai,Chennai Super Kings,112,2008-05-31
+58,Mumbai,Rajasthan Royals,163,2008-06-01
+59,Cape Town,Mumbai Indians,165,2009-04-18
+60,Cape Town,Royal Challengers Bengaluru,133,2009-04-18
+62,Cape Town,Sunrisers Hyderabad,101,2009-04-19
+63,Port Elizabeth,Chennai Super Kings,179,2009-04-20
+65,Cape Town,Sunrisers Hyderabad,184,2009-04-22
+66,Durban,Delhi Capitals,189,2009-04-23
+67,Cape Town,Rajasthan Royals,150,2009-04-23
+68,Durban,Punjab Kings,168,2009-04-24
+69,Durban,Sunrisers Hyderabad,168,2009-04-25
+70,Port Elizabeth,Delhi Capitals,149,2009-04-26
+71,Cape Town,Punjab Kings,139,2009-04-26
+72,Durban,Sunrisers Hyderabad,165,2009-04-27
+73,Port Elizabeth,Mumbai Indians,187,2009-04-27
+74,Centurion,Rajasthan Royals,143,2009-04-28
+75,Durban,Royal Challengers Bengaluru,139,2009-04-29
+76,Durban,Punjab Kings,119,2009-04-29
+77,Centurion,Delhi Capitals,148,2009-04-30
+78,Centurion,Chennai Super Kings,164,2009-04-30
+79,East London,Mumbai Indians,148,2009-05-01
+80,Durban,Royal Challengers Bengaluru,145,2009-05-01
+81,Port Elizabeth,Rajasthan Royals,141,2009-05-02
+82,Johannesburg,Chennai Super Kings,163,2009-05-02
+83,Port Elizabeth,Punjab Kings,153,2009-05-03
+84,Johannesburg,Royal Challengers Bengaluru,149,2009-05-03
+85,East London,Chennai Super Kings,178,2009-05-04
+86,Durban,Rajasthan Royals,211,2009-05-05
+87,Durban,Delhi Capitals,154,2009-05-05
+88,Centurion,Sunrisers Hyderabad,145,2009-05-06
+89,Centurion,Rajasthan Royals,105,2009-05-07
+91,East London,Delhi Capitals,116,2009-05-08
+92,Kimberley,Punjab Kings,168,2009-05-09
+93,Kimberley,Chennai Super Kings,140,2009-05-09
+94,Port Elizabeth,Mumbai Indians,157,2009-05-10
+95,Johannesburg,Delhi Capitals,123,2009-05-10
+96,Kimberley,Sunrisers Hyderabad,166,2009-05-11
+97,Centurion,Royal Challengers Bengaluru,173,2009-05-12
+98,Centurion,Mumbai Indians,119,2009-05-12
+99,Durban,Delhi Capitals,173,2009-05-13
+100,Durban,Royal Challengers Bengaluru,129,2009-05-14
+101,Durban,Rajasthan Royals,145,2009-05-14
+102,Bloemfontein,Punjab Kings,120,2009-05-15
+103,Port Elizabeth,Chennai Super Kings,147,2009-05-16
+104,Johannesburg,Sunrisers Hyderabad,160,2009-05-16
+105,Johannesburg,Punjab Kings,134,2009-05-17
+106,Bloemfontein,Delhi Capitals,150,2009-05-17
+107,Centurion,Kolkata Knight Riders,188,2009-05-18
+108,Johannesburg,Royal Challengers Bengaluru,134,2009-05-19
+109,Durban,Kolkata Knight Riders,101,2009-05-20
+110,Durban,Chennai Super Kings,116,2009-05-20
+111,Centurion,Delhi Capitals,165,2009-05-21
+112,Centurion,Royal Challengers Bengaluru,170,2009-05-21
+113,Centurion,Sunrisers Hyderabad,153,2009-05-22
+114,Johannesburg,Royal Challengers Bengaluru,146,2009-05-23
+115,Johannesburg,Sunrisers Hyderabad,143,2009-05-24
+116,Mumbai,Kolkata Knight Riders,161,2010-03-12
+117,Mumbai,Mumbai Indians,212,2010-03-13
+118,Chandigarh,Delhi Capitals,142,2010-03-13
+119,Kolkata,Kolkata Knight Riders,135,2010-03-14
+120,Chennai,Sunrisers Hyderabad,190,2010-03-14
+121,Ahmedabad,Delhi Capitals,141,2010-03-15
+122,Bangalore,Royal Challengers Bengaluru,203,2010-03-16
+123,Kolkata,Chennai Super Kings,164,2010-03-16
+124,Delhi,Mumbai Indians,218,2010-03-17
+125,Bangalore,Royal Challengers Bengaluru,92,2010-03-18
+126,Delhi,Chennai Super Kings,185,2010-03-19
+127,Cuttack,Sunrisers Hyderabad,170,2010-03-19
+128,Ahmedabad,Rajasthan Royals,168,2010-03-20
+129,Mumbai,Royal Challengers Bengaluru,151,2010-03-20
+130,Cuttack,Sunrisers Hyderabad,171,2010-03-21
+131,Chennai,Punjab Kings,136,2010-03-21
+132,Mumbai,Mumbai Indians,155,2010-03-22
+133,Bangalore,Royal Challengers Bengaluru,171,2010-03-23
+134,Chandigarh,Rajasthan Royals,183,2010-03-24
+135,Mumbai,Mumbai Indians,180,2010-03-25
+136,Bangalore,Delhi Capitals,183,2010-03-25
+137,Ahmedabad,Rajasthan Royals,148,2010-03-26
+138,Chandigarh,Kolkata Knight Riders,183,2010-03-27
+139,Ahmedabad,Rajasthan Royals,177,2010-03-28
+140,Mumbai,Mumbai Indians,172,2010-03-28
+141,Delhi,Delhi Capitals,177,2010-03-29
+142,Mumbai,Mumbai Indians,163,2010-03-30
+143,Chennai,Chennai Super Kings,161,2010-03-31
+144,Delhi,Delhi Capitals,188,2010-03-31
+145,Kolkata,Kolkata Knight Riders,181,2010-04-01
+146,Chandigarh,Royal Challengers Bengaluru,181,2010-04-02
+147,Chennai,Chennai Super Kings,246,2010-04-03
+148,Mumbai,Mumbai Indians,178,2010-04-03
+149,Kolkata,Punjab Kings,200,2010-04-04
+150,Delhi,Delhi Capitals,184,2010-04-04
+151,Nagpur,Rajasthan Royals,159,2010-04-05
+152,Chennai,Chennai Super Kings,165,2010-04-06
+153,Jaipur,Rajasthan Royals,153,2010-04-07
+154,Kolkata,Kolkata Knight Riders,181,2010-04-07
+155,Bangalore,Sunrisers Hyderabad,184,2010-04-08
+156,Chandigarh,Punjab Kings,154,2010-04-09
+157,Nagpur,Sunrisers Hyderabad,138,2010-04-10
+158,Bangalore,Royal Challengers Bengaluru,160,2010-04-10
+159,Delhi,Punjab Kings,111,2010-04-11
+160,Jaipur,Mumbai Indians,174,2010-04-11
+161,Nagpur,Sunrisers Hyderabad,151,2010-04-12
+162,Mumbai,Mumbai Indians,183,2010-04-13
+163,Chennai,Chennai Super Kings,139,2010-04-13
+164,Jaipur,Royal Challengers Bengaluru,130,2010-04-14
+165,Chennai,Delhi Capitals,112,2010-04-15
+166,Dharamsala,Sunrisers Hyderabad,174,2010-04-16
+167,Bangalore,Mumbai Indians,191,2010-04-17
+168,Kolkata,Kolkata Knight Riders,132,2010-04-17
+169,Dharamsala,Chennai Super Kings,192,2010-04-18
+170,Delhi,Sunrisers Hyderabad,145,2010-04-18
+171,Kolkata,Kolkata Knight Riders,133,2010-04-19
+172,Mumbai,Mumbai Indians,184,2010-04-21
+173,Mumbai,Chennai Super Kings,142,2010-04-22
+174,Mumbai,Royal Challengers Bengaluru,82,2010-04-24
+175,Mumbai,Chennai Super Kings,168,2010-04-25
+176,Chennai,Chennai Super Kings,153,2011-04-08
+177,Hyderabad,Rajasthan Royals,137,2011-04-09
+179,Delhi,Mumbai Indians,95,2011-04-10
+181,Kolkata,Kolkata Knight Riders,163,2011-04-11
+182,Jaipur,Rajasthan Royals,151,2011-04-12
+183,Bangalore,Mumbai Indians,140,2011-04-12
+184,Chandigarh,Punjab Kings,188,2011-04-13
+186,Hyderabad,Sunrisers Hyderabad,175,2011-04-14
+187,Jaipur,Kolkata Knight Riders,159,2011-04-15
+189,Chennai,Chennai Super Kings,183,2011-04-16
+190,Hyderabad,Punjab Kings,165,2011-04-16
+192,Kolkata,Kolkata Knight Riders,81,2011-04-17
+194,Delhi,Sunrisers Hyderabad,168,2011-04-19
+197,Chandigarh,Punjab Kings,195,2011-04-21
+198,Mumbai,Mumbai Indians,164,2011-04-22
+199,Kolkata,Royal Challengers Bengaluru,171,2011-04-22
+200,Delhi,Delhi Capitals,231,2011-04-23
+201,Hyderabad,Mumbai Indians,172,2011-04-24
+204,Delhi,Royal Challengers Bengaluru,160,2011-04-26
+207,Delhi,Kolkata Knight Riders,148,2011-04-28
+208,Jaipur,Rajasthan Royals,94,2011-04-29
+211,Kolkata,Kolkata Knight Riders,119,2011-04-30
+213,Chennai,Chennai Super Kings,165,2011-05-01
+214,Mumbai,Mumbai Indians,159,2011-05-02
+216,Hyderabad,Kolkata Knight Riders,169,2011-05-03
+217,Chennai,Chennai Super Kings,147,2011-05-04
+220,Hyderabad,Delhi Capitals,175,2011-05-05
+221,Bangalore,Royal Challengers Bengaluru,205,2011-05-06
+223,Mumbai,Mumbai Indians,178,2011-05-07
+226,Jaipur,Chennai Super Kings,196,2011-05-09
+228,Chandigarh,Punjab Kings,163,2011-05-10
+229,Jaipur,Royal Challengers Bengaluru,146,2011-05-11
+230,Chennai,Chennai Super Kings,176,2011-05-12
+233,Mumbai,Sunrisers Hyderabad,135,2011-05-14
+234,Dharamsala,Punjab Kings,170,2011-05-15
+237,Dharamsala,Punjab Kings,232,2011-05-17
+240,Mumbai,Rajasthan Royals,133,2011-05-20
+241,Dharamsala,Sunrisers Hyderabad,198,2011-05-21
+243,Bangalore,Royal Challengers Bengaluru,128,2011-05-22
+244,Kolkata,Mumbai Indians,175,2011-05-22
+245,Mumbai,Chennai Super Kings,175,2011-05-24
+246,Mumbai,Mumbai Indians,147,2011-05-25
+247,Chennai,Royal Challengers Bengaluru,185,2011-05-27
+248,Chennai,Chennai Super Kings,205,2011-05-28
+249,Chennai,Mumbai Indians,112,2012-04-04
+250,Kolkata,Delhi Capitals,97,2012-04-05
+252,Jaipur,Rajasthan Royals,191,2012-04-06
+253,Bangalore,Royal Challengers Bengaluru,157,2012-04-07
+254,Visakhapatnam,Chennai Super Kings,193,2012-04-07
+255,Jaipur,Rajasthan Royals,164,2012-04-08
+257,Visakhapatnam,Mumbai Indians,138,2012-04-09
+258,Bangalore,Kolkata Knight Riders,165,2012-04-10
+259,Delhi,Delhi Capitals,110,2012-04-10
+260,Mumbai,Mumbai Indians,197,2012-04-11
+261,Chennai,Chennai Super Kings,205,2012-04-12
+263,Kolkata,Kolkata Knight Riders,131,2012-04-13
+265,Kolkata,Punjab Kings,134,2012-04-15
+266,Bangalore,Rajasthan Royals,195,2012-04-15
+267,Mumbai,Delhi Capitals,92,2012-04-16
+268,Jaipur,Rajasthan Royals,196,2012-04-17
+270,Chandigarh,Kolkata Knight Riders,124,2012-04-18
+271,Delhi,Delhi Capitals,157,2012-04-19
+273,Chandigarh,Royal Challengers Bengaluru,163,2012-04-20
+274,Chennai,Chennai Super Kings,146,2012-04-21
+276,Mumbai,Punjab Kings,163,2012-04-22
+277,Cuttack,Kolkata Knight Riders,126,2012-04-22
+278,Jaipur,Royal Challengers Bengaluru,189,2012-04-23
+280,Chandigarh,Mumbai Indians,168,2012-04-25
+282,Delhi,Delhi Capitals,207,2012-04-27
+283,Chennai,Punjab Kings,156,2012-04-28
+284,Kolkata,Kolkata Knight Riders,190,2012-04-28
+285,Delhi,Delhi Capitals,152,2012-04-29
+286,Mumbai,Mumbai Indians,100,2012-04-29
+287,Chennai,Kolkata Knight Riders,139,2012-04-30
+289,Jaipur,Delhi Capitals,141,2012-05-01
+290,Bangalore,Punjab Kings,158,2012-05-02
+292,Chennai,Chennai Super Kings,160,2012-05-04
+294,Chandigarh,Rajasthan Royals,177,2012-05-05
+295,Mumbai,Mumbai Indians,173,2012-05-06
+296,Bangalore,Royal Challengers Bengaluru,181,2012-05-06
+297,Delhi,Kolkata Knight Riders,153,2012-05-07
+299,Hyderabad,Punjab Kings,170,2012-05-08
+300,Mumbai,Royal Challengers Bengaluru,141,2012-05-09
+301,Hyderabad,Delhi Capitals,187,2012-05-10
+302,Jaipur,Chennai Super Kings,126,2012-05-10
+304,Kolkata,Mumbai Indians,182,2012-05-12
+305,Chennai,Chennai Super Kings,114,2012-05-12
+307,Chandigarh,Punjab Kings,190,2012-05-13
+308,Bangalore,Mumbai Indians,171,2012-05-14
+309,Kolkata,Chennai Super Kings,158,2012-05-14
+310,Delhi,Delhi Capitals,136,2012-05-15
+311,Mumbai,Kolkata Knight Riders,140,2012-05-16
+312,Dharamsala,Punjab Kings,120,2012-05-17
+313,Delhi,Royal Challengers Bengaluru,215,2012-05-17
+314,Hyderabad,Sunrisers Hyderabad,126,2012-05-18
+315,Dharamsala,Delhi Capitals,141,2012-05-19
+317,Hyderabad,Sunrisers Hyderabad,132,2012-05-20
+318,Jaipur,Mumbai Indians,162,2012-05-20
+319,Pune,Kolkata Knight Riders,162,2012-05-22
+320,Bangalore,Chennai Super Kings,187,2012-05-23
+321,Chennai,Chennai Super Kings,222,2012-05-25
+322,Chennai,Kolkata Knight Riders,190,2012-05-27
+323,Kolkata,Kolkata Knight Riders,128,2013-04-03
+324,Bangalore,Royal Challengers Bengaluru,156,2013-04-04
+326,Delhi,Rajasthan Royals,165,2013-04-06
+327,Chennai,Mumbai Indians,148,2013-04-06
+329,Hyderabad,Sunrisers Hyderabad,130,2013-04-07
+330,Jaipur,Rajasthan Royals,144,2013-04-08
+331,Mumbai,Mumbai Indians,209,2013-04-09
+332,Bangalore,Royal Challengers Bengaluru,161,2013-04-09
+333,Chandigarh,Chennai Super Kings,138,2013-04-10
+334,Bangalore,Royal Challengers Bengaluru,154,2013-04-11
+336,Delhi,Sunrisers Hyderabad,114,2013-04-12
+338,Chennai,Chennai Super Kings,165,2013-04-13
+339,Kolkata,Kolkata Knight Riders,180,2013-04-14
+340,Jaipur,Rajasthan Royals,124,2013-04-14
+342,Chandigarh,Punjab Kings,157,2013-04-16
+343,Bangalore,Royal Challengers Bengaluru,152,2013-04-16
+345,Jaipur,Rajasthan Royals,179,2013-04-17
+346,Delhi,Chennai Super Kings,169,2013-04-18
+347,Hyderabad,Sunrisers Hyderabad,123,2013-04-19
+348,Kolkata,Chennai Super Kings,119,2013-04-20
+349,Bangalore,Royal Challengers Bengaluru,117,2013-04-20
+350,Delhi,Delhi Capitals,161,2013-04-21
+352,Chennai,Chennai Super Kings,185,2013-04-22
+354,Delhi,Punjab Kings,120,2013-04-23
+355,Kolkata,Mumbai Indians,159,2013-04-24
+356,Chennai,Chennai Super Kings,159,2013-04-25
+357,Kolkata,Kolkata Knight Riders,149,2013-04-26
+358,Jaipur,Rajasthan Royals,144,2013-04-27
+359,Mumbai,Mumbai Indians,194,2013-04-27
+360,Chennai,Chennai Super Kings,200,2013-04-28
+362,Jaipur,Rajasthan Royals,171,2013-04-29
+363,Mumbai,Mumbai Indians,174,2013-04-29
+365,Hyderabad,Sunrisers Hyderabad,129,2013-05-01
+366,Raipur,Delhi Capitals,136,2013-05-01
+367,Chennai,Chennai Super Kings,186,2013-05-02
+369,Kolkata,Kolkata Knight Riders,132,2013-05-03
+370,Hyderabad,Sunrisers Hyderabad,80,2013-05-04
+371,Mumbai,Mumbai Indians,139,2013-05-05
+373,Chandigarh,Punjab Kings,190,2013-05-06
+374,Jaipur,Rajasthan Royals,154,2013-05-07
+375,Mumbai,Mumbai Indians,170,2013-05-07
+376,Hyderabad,Chennai Super Kings,223,2013-05-08
+377,Chandigarh,Rajasthan Royals,145,2013-05-09
+379,Delhi,Royal Challengers Bengaluru,183,2013-05-10
+381,Chandigarh,Sunrisers Hyderabad,150,2013-05-11
+382,Ranchi,Kolkata Knight Riders,115,2013-05-12
+383,Jaipur,Rajasthan Royals,141,2013-05-12
+384,Mumbai,Mumbai Indians,178,2013-05-13
+385,Bangalore,Punjab Kings,174,2013-05-14
+386,Chennai,Chennai Super Kings,168,2013-05-14
+388,Mumbai,Mumbai Indians,166,2013-05-15
+389,Dharamsala,Punjab Kings,171,2013-05-16
+390,Hyderabad,Sunrisers Hyderabad,136,2013-05-17
+391,Dharamsala,Punjab Kings,183,2013-05-18
+392,Bangalore,Royal Challengers Bengaluru,106,2013-05-18
+394,Hyderabad,Sunrisers Hyderabad,130,2013-05-19
+395,Delhi,Chennai Super Kings,192,2013-05-21
+396,Delhi,Rajasthan Royals,132,2013-05-22
+397,Kolkata,Mumbai Indians,165,2013-05-24
+398,Kolkata,Mumbai Indians,148,2013-05-26
+399,Abu Dhabi,Kolkata Knight Riders,163,2014-04-16
+400,,Royal Challengers Bengaluru,145,2014-04-17
+401,Abu Dhabi,Punjab Kings,205,2014-04-18
+402,Abu Dhabi,Rajasthan Royals,133,2014-04-18
+403,,Royal Challengers Bengaluru,115,2014-04-19
+404,,Delhi Capitals,166,2014-04-19
+405,,Punjab Kings,191,2014-04-20
+406,Abu Dhabi,Chennai Super Kings,177,2014-04-21
+407,,Punjab Kings,193,2014-04-22
+408,,Chennai Super Kings,140,2014-04-23
+409,,Kolkata Knight Riders,150,2014-04-24
+410,,Sunrisers Hyderabad,184,2014-04-25
+411,,Chennai Super Kings,141,2014-04-25
+412,Abu Dhabi,Rajasthan Royals,70,2014-04-26
+413,Abu Dhabi,Punjab Kings,132,2014-04-26
+414,,Delhi Capitals,125,2014-04-27
+415,,Chennai Super Kings,145,2014-04-27
+416,,Punjab Kings,124,2014-04-28
+417,Abu Dhabi,Rajasthan Royals,152,2014-04-29
+418,,Sunrisers Hyderabad,172,2014-04-30
+419,Ranchi,Chennai Super Kings,148,2014-05-02
+420,Mumbai,Mumbai Indians,168,2014-05-03
+421,Delhi,Rajasthan Royals,152,2014-05-03
+422,Bangalore,Royal Challengers Bengaluru,155,2014-05-04
+423,Ahmedabad,Rajasthan Royals,170,2014-05-05
+424,Delhi,Chennai Super Kings,178,2014-05-05
+425,Mumbai,Mumbai Indians,187,2014-05-06
+426,Delhi,Kolkata Knight Riders,160,2014-05-07
+427,Cuttack,Punjab Kings,231,2014-05-07
+428,Ahmedabad,Sunrisers Hyderabad,134,2014-05-08
+429,Bangalore,Punjab Kings,198,2014-05-09
+431,Mumbai,Chennai Super Kings,157,2014-05-10
+432,Cuttack,Kolkata Knight Riders,149,2014-05-11
+433,Bangalore,Rajasthan Royals,190,2014-05-11
+434,Hyderabad,Mumbai Indians,157,2014-05-12
+435,Ranchi,Chennai Super Kings,148,2014-05-13
+436,Bangalore,Royal Challengers Bengaluru,186,2014-05-13
+437,Hyderabad,Punjab Kings,205,2014-05-14
+438,Cuttack,Kolkata Knight Riders,141,2014-05-14
+439,Ahmedabad,Rajasthan Royals,201,2014-05-15
+440,Ranchi,Royal Challengers Bengaluru,138,2014-05-18
+441,Hyderabad,Kolkata Knight Riders,142,2014-05-18
+442,Ahmedabad,Mumbai Indians,178,2014-05-19
+443,Delhi,Punjab Kings,164,2014-05-19
+444,Hyderabad,Sunrisers Hyderabad,160,2014-05-20
+445,Kolkata,Kolkata Knight Riders,154,2014-05-20
+446,Chandigarh,Mumbai Indians,156,2014-05-21
+447,Kolkata,Kolkata Knight Riders,195,2014-05-22
+448,Ranchi,Sunrisers Hyderabad,185,2014-05-22
+449,Mumbai,Mumbai Indians,173,2014-05-23
+450,Chandigarh,Punjab Kings,179,2014-05-23
+451,Bangalore,Chennai Super Kings,154,2014-05-24
+452,Kolkata,Kolkata Knight Riders,160,2014-05-24
+453,Chandigarh,Punjab Kings,115,2014-05-25
+454,Mumbai,Mumbai Indians,189,2014-05-25
+455,Kolkata,Kolkata Knight Riders,163,2014-05-27
+456,Mumbai,Chennai Super Kings,173,2014-05-28
+457,Mumbai,Punjab Kings,226,2014-05-30
+458,Bangalore,Kolkata Knight Riders,199,2014-06-01
+459,Kolkata,Kolkata Knight Riders,168,2015-04-08
+460,Chennai,Chennai Super Kings,150,2015-04-09
+461,Pune,Rajasthan Royals,162,2015-04-10
+462,Chennai,Chennai Super Kings,209,2015-04-11
+463,Kolkata,Royal Challengers Bengaluru,177,2015-04-11
+464,Delhi,Rajasthan Royals,184,2015-04-12
+465,Mumbai,Punjab Kings,177,2015-04-12
+466,Bangalore,Sunrisers Hyderabad,166,2015-04-13
+467,Ahmedabad,Rajasthan Royals,164,2015-04-14
+468,Pune,Delhi Capitals,165,2015-04-15
+469,Visakhapatnam,Rajasthan Royals,127,2015-04-16
+470,Mumbai,Chennai Super Kings,183,2015-04-17
+471,Visakhapatnam,Delhi Capitals,167,2015-04-18
+472,Pune,Kolkata Knight Riders,155,2015-04-18
+473,Ahmedabad,Rajasthan Royals,156,2015-04-19
+474,Bangalore,Mumbai Indians,209,2015-04-19
+475,Delhi,Kolkata Knight Riders,146,2015-04-20
+476,Ahmedabad,Punjab Kings,191,2015-04-21
+478,Bangalore,Chennai Super Kings,181,2015-04-22
+479,Delhi,Delhi Capitals,190,2015-04-23
+480,Ahmedabad,Royal Challengers Bengaluru,130,2015-04-24
+481,Mumbai,Mumbai Indians,157,2015-04-25
+482,Chennai,Chennai Super Kings,192,2015-04-25
+483,Delhi,Royal Challengers Bengaluru,95,2015-04-26
+484,Chandigarh,Sunrisers Hyderabad,150,2015-04-27
+485,Chennai,Chennai Super Kings,134,2015-04-28
+486,Bangalore,,200,2015-04-29
+487,Kolkata,Kolkata Knight Riders,165,2015-04-30
+488,Delhi,Delhi Capitals,118,2015-05-01
+489,Mumbai,Mumbai Indians,187,2015-05-01
+490,Bangalore,Royal Challengers Bengaluru,111,2015-05-02
+491,Hyderabad,Sunrisers Hyderabad,192,2015-05-02
+492,Chandigarh,Mumbai Indians,172,2015-05-03
+493,Mumbai,Rajasthan Royals,189,2015-05-03
+494,Chennai,Chennai Super Kings,148,2015-05-04
+495,Kolkata,Kolkata Knight Riders,167,2015-05-04
+496,Mumbai,Mumbai Indians,152,2015-05-05
+497,Bangalore,Royal Challengers Bengaluru,226,2015-05-06
+498,Kolkata,Kolkata Knight Riders,171,2015-05-07
+499,Mumbai,Sunrisers Hyderabad,201,2015-05-07
+500,Chennai,Mumbai Indians,158,2015-05-08
+501,Kolkata,Kolkata Knight Riders,183,2015-05-09
+502,Raipur,Sunrisers Hyderabad,163,2015-05-09
+503,Mumbai,Royal Challengers Bengaluru,235,2015-05-10
+504,Chennai,Chennai Super Kings,157,2015-05-10
+505,Hyderabad,Sunrisers Hyderabad,185,2015-05-11
+506,Raipur,Delhi Capitals,119,2015-05-12
+507,Chandigarh,Punjab Kings,106,2015-05-13
+508,Mumbai,Mumbai Indians,171,2015-05-14
+510,Chandigarh,Chennai Super Kings,130,2015-05-16
+511,Mumbai,Rajasthan Royals,199,2015-05-16
+512,Bangalore,,187,2015-05-17
+513,Hyderabad,Mumbai Indians,113,2015-05-17
+514,Mumbai,Mumbai Indians,187,2015-05-19
+515,Pune,Royal Challengers Bengaluru,180,2015-05-20
+516,Ranchi,Chennai Super Kings,139,2015-05-22
+517,Kolkata,Mumbai Indians,202,2015-05-24
+519,Kolkata,Kolkata Knight Riders,98,2016-04-10
+521,Bangalore,Royal Challengers Bengaluru,227,2016-04-12
+522,Kolkata,Mumbai Indians,187,2016-04-13
+524,Delhi,Delhi Capitals,111,2016-04-15
+525,Hyderabad,Kolkata Knight Riders,142,2016-04-16
+528,Bangalore,Delhi Capitals,191,2016-04-17
+529,Hyderabad,Sunrisers Hyderabad,142,2016-04-18
+530,Chandigarh,Kolkata Knight Riders,138,2016-04-19
+531,Mumbai,Mumbai Indians,170,2016-04-20
+534,Delhi,Delhi Capitals,164,2016-04-23
+535,Hyderabad,Sunrisers Hyderabad,143,2016-04-23
+538,Chandigarh,Mumbai Indians,189,2016-04-25
+541,Mumbai,Mumbai Indians,174,2016-04-28
+543,Delhi,Delhi Capitals,186,2016-04-30
+544,Hyderabad,Sunrisers Hyderabad,194,2016-04-30
+547,Bangalore,Kolkata Knight Riders,185,2016-05-02
+549,Kolkata,Kolkata Knight Riders,164,2016-05-04
+553,Chandigarh,Punjab Kings,181,2016-05-07
+554,Visakhapatnam,Sunrisers Hyderabad,177,2016-05-08
+556,Chandigarh,Royal Challengers Bengaluru,175,2016-05-09
+558,Bangalore,Mumbai Indians,151,2016-05-11
+559,Hyderabad,Delhi Capitals,146,2016-05-12
+560,Visakhapatnam,Punjab Kings,124,2016-05-13
+563,Chandigarh,Sunrisers Hyderabad,179,2016-05-15
+564,Visakhapatnam,Mumbai Indians,206,2016-05-15
+565,Kolkata,Royal Challengers Bengaluru,183,2016-05-16
+569,Raipur,Delhi Capitals,158,2016-05-20
+572,Kolkata,Kolkata Knight Riders,171,2016-05-22
+573,Raipur,Royal Challengers Bengaluru,138,2016-05-22
+575,Delhi,Sunrisers Hyderabad,162,2016-05-25
+577,Bangalore,Sunrisers Hyderabad,208,2016-05-29
+578,Hyderabad,Sunrisers Hyderabad,207,2017-04-05
+582,Bengaluru,Royal Challengers Bengaluru,157,2017-04-08
+584,Mumbai,Mumbai Indians,178,2017-04-09
+585,Indore,Punjab Kings,148,2017-04-10
+587,Mumbai,Mumbai Indians,158,2017-04-12
+588,Kolkata,Kolkata Knight Riders,170,2017-04-13
+589,Bangalore,Mumbai Indians,142,2017-04-14
+591,Kolkata,Kolkata Knight Riders,172,2017-04-15
+592,Delhi,Delhi Capitals,188,2017-04-15
+595,Delhi,Kolkata Knight Riders,168,2017-04-17
+596,Hyderabad,Sunrisers Hyderabad,159,2017-04-17
+598,Hyderabad,Sunrisers Hyderabad,191,2017-04-19
+599,Indore,Mumbai Indians,198,2017-04-20
+601,Mumbai,Mumbai Indians,142,2017-04-22
+604,Kolkata,Kolkata Knight Riders,131,2017-04-23
+608,Kolkata,Kolkata Knight Riders,160,2017-04-28
+609,Chandigarh,Sunrisers Hyderabad,207,2017-04-28
+612,Chandigarh,Punjab Kings,67,2017-04-30
+613,Hyderabad,Sunrisers Hyderabad,209,2017-04-30
+614,Mumbai,Mumbai Indians,162,2017-05-01
+616,Delhi,Delhi Capitals,185,2017-05-02
+619,Bangalore,Punjab Kings,138,2017-05-05
+621,Delhi,Mumbai Indians,212,2017-05-06
+622,Bangalore,Kolkata Knight Riders,158,2017-05-07
+624,Hyderabad,Sunrisers Hyderabad,138,2017-05-08
+625,Chandigarh,Punjab Kings,167,2017-05-09
+627,Mumbai,Punjab Kings,230,2017-05-11
+630,Kolkata,Mumbai Indians,173,2017-05-13
+632,Delhi,Royal Challengers Bengaluru,161,2017-05-14
+635,Bangalore,Mumbai Indians,107,2017-05-19
+637,Mumbai,Chennai Super Kings,165,2018-04-07
+638,Chandigarh,Punjab Kings,166,2018-04-08
+639,Kolkata,Kolkata Knight Riders,176,2018-04-08
+640,Hyderabad,Sunrisers Hyderabad,125,2018-04-09
+641,Chennai,Chennai Super Kings,202,2018-04-10
+643,Hyderabad,Sunrisers Hyderabad,147,2018-04-12
+644,Bengaluru,Royal Challengers Bengaluru,155,2018-04-13
+645,Mumbai,Delhi Capitals,194,2018-04-14
+646,Kolkata,Sunrisers Hyderabad,138,2018-04-14
+647,Bengaluru,Rajasthan Royals,217,2018-04-15
+648,Chandigarh,Punjab Kings,197,2018-04-15
+649,Kolkata,Kolkata Knight Riders,200,2018-04-16
+650,Mumbai,Mumbai Indians,213,2018-04-17
+651,Jaipur,Kolkata Knight Riders,160,2018-04-18
+652,Chandigarh,Punjab Kings,193,2018-04-19
+653,Pune,Chennai Super Kings,204,2018-04-20
+655,Bengaluru,Royal Challengers Bengaluru,174,2018-04-21
+656,Hyderabad,Chennai Super Kings,182,2018-04-22
+657,Jaipur,Rajasthan Royals,167,2018-04-22
+658,Delhi,Punjab Kings,143,2018-04-23
+659,Mumbai,Sunrisers Hyderabad,118,2018-04-24
+660,Bengaluru,Chennai Super Kings,205,2018-04-25
+661,Hyderabad,Sunrisers Hyderabad,132,2018-04-26
+662,Delhi,Delhi Capitals,219,2018-04-27
+663,Pune,Mumbai Indians,169,2018-04-28
+664,Jaipur,Sunrisers Hyderabad,151,2018-04-29
+665,Bengaluru,Kolkata Knight Riders,175,2018-04-29
+666,Pune,Chennai Super Kings,211,2018-04-30
+667,Bengaluru,Royal Challengers Bengaluru,167,2018-05-01
+669,Kolkata,Kolkata Knight Riders,177,2018-05-03
+670,Indore,Mumbai Indians,174,2018-05-04
+671,Pune,Chennai Super Kings,127,2018-05-05
+672,Hyderabad,Sunrisers Hyderabad,163,2018-05-05
+673,Mumbai,Mumbai Indians,181,2018-05-06
+674,Indore,Punjab Kings,152,2018-05-06
+675,Hyderabad,Sunrisers Hyderabad,146,2018-05-07
+676,Jaipur,Rajasthan Royals,158,2018-05-08
+677,Kolkata,Mumbai Indians,210,2018-05-09
+678,Delhi,Sunrisers Hyderabad,187,2018-05-10
+679,Jaipur,Rajasthan Royals,176,2018-05-11
+680,Indore,Kolkata Knight Riders,245,2018-05-12
+681,Delhi,Royal Challengers Bengaluru,181,2018-05-12
+682,Pune,Chennai Super Kings,179,2018-05-13
+683,Mumbai,Rajasthan Royals,168,2018-05-13
+684,Indore,Royal Challengers Bengaluru,88,2018-05-14
+685,Kolkata,Kolkata Knight Riders,142,2018-05-15
+686,Mumbai,Mumbai Indians,186,2018-05-16
+687,Bengaluru,Royal Challengers Bengaluru,218,2018-05-17
+688,Delhi,Delhi Capitals,162,2018-05-18
+689,Jaipur,Rajasthan Royals,164,2018-05-19
+690,Hyderabad,Kolkata Knight Riders,172,2018-05-19
+691,Delhi,Delhi Capitals,174,2018-05-20
+692,Pune,Chennai Super Kings,153,2018-05-20
+693,Mumbai,Chennai Super Kings,139,2018-05-22
+694,Kolkata,Kolkata Knight Riders,169,2018-05-23
+695,Kolkata,Sunrisers Hyderabad,174,2018-05-25
+696,Mumbai,Chennai Super Kings,178,2018-05-27
+697,Chennai,Chennai Super Kings,70,2019-03-23
+698,Kolkata,Kolkata Knight Riders,181,2019-03-24
+699,Mumbai,Delhi Capitals,213,2019-03-24
+700,Jaipur,Punjab Kings,184,2019-03-25
+701,Delhi,Chennai Super Kings,147,2019-03-26
+702,Kolkata,Kolkata Knight Riders,218,2019-03-27
+703,Bengaluru,Mumbai Indians,187,2019-03-28
+704,Hyderabad,Sunrisers Hyderabad,198,2019-03-29
+705,Chandigarh,Punjab Kings,176,2019-03-30
+706,Delhi,Delhi Capitals,185,2019-03-30
+707,Hyderabad,Sunrisers Hyderabad,231,2019-03-31
+708,Chennai,Chennai Super Kings,175,2019-03-31
+709,Chandigarh,Punjab Kings,166,2019-04-01
+710,Jaipur,Rajasthan Royals,158,2019-04-02
+711,Mumbai,Mumbai Indians,170,2019-04-03
+712,Delhi,Sunrisers Hyderabad,129,2019-04-04
+713,Bengaluru,Kolkata Knight Riders,205,2019-04-05
+714,Chennai,Chennai Super Kings,160,2019-04-06
+715,Hyderabad,Mumbai Indians,136,2019-04-06
+716,Bengaluru,Delhi Capitals,149,2019-04-07
+717,Jaipur,Kolkata Knight Riders,139,2019-04-07
+718,Chandigarh,Punjab Kings,150,2019-04-08
+719,Chennai,Chennai Super Kings,108,2019-04-09
+720,Mumbai,Mumbai Indians,197,2019-04-10
+721,Jaipur,Chennai Super Kings,151,2019-04-11
+722,Kolkata,Delhi Capitals,178,2019-04-12
+723,Mumbai,Rajasthan Royals,187,2019-04-13
+724,Chandigarh,Royal Challengers Bengaluru,173,2019-04-13
+725,Kolkata,Chennai Super Kings,161,2019-04-14
+726,Hyderabad,Delhi Capitals,155,2019-04-14
+727,Mumbai,Mumbai Indians,171,2019-04-15
+728,Chandigarh,Punjab Kings,182,2019-04-16
+729,Hyderabad,Sunrisers Hyderabad,132,2019-04-17
+730,Delhi,Mumbai Indians,168,2019-04-18
+731,Kolkata,Royal Challengers Bengaluru,213,2019-04-19
+732,Jaipur,Rajasthan Royals,161,2019-04-20
+733,Delhi,Delhi Capitals,163,2019-04-20
+734,Hyderabad,Sunrisers Hyderabad,159,2019-04-21
+735,Bengaluru,Royal Challengers Bengaluru,161,2019-04-21
+736,Jaipur,Delhi Capitals,191,2019-04-22
+737,Chennai,Chennai Super Kings,175,2019-04-23
+738,Bengaluru,Royal Challengers Bengaluru,202,2019-04-24
+739,Kolkata,Rajasthan Royals,175,2019-04-25
+740,Chennai,Mumbai Indians,155,2019-04-26
+741,Jaipur,Rajasthan Royals,160,2019-04-27
+742,Delhi,Delhi Capitals,187,2019-04-28
+743,Kolkata,Kolkata Knight Riders,232,2019-04-28
+744,Hyderabad,Sunrisers Hyderabad,212,2019-04-29
+745,Bengaluru,,62,2019-04-30
+746,Chennai,Chennai Super Kings,179,2019-05-01
+747,Mumbai,Mumbai Indians,162,2019-05-02
+748,Chandigarh,Kolkata Knight Riders,183,2019-05-03
+749,Delhi,Delhi Capitals,115,2019-05-04
+750,Bengaluru,Royal Challengers Bengaluru,175,2019-05-04
+751,Chandigarh,Punjab Kings,170,2019-05-05
+752,Mumbai,Mumbai Indians,133,2019-05-05
+753,Chennai,Mumbai Indians,131,2019-05-07
+754,Visakhapatnam,Delhi Capitals,162,2019-05-08
+755,Visakhapatnam,Chennai Super Kings,147,2019-05-10
+756,Hyderabad,Mumbai Indians,149,2019-05-12
+757,Abu Dhabi,Chennai Super Kings,162,2020-09-19
+758,,Delhi Capitals,157,2020-09-20
+759,,Royal Challengers Bengaluru,163,2020-09-21
+760,,Rajasthan Royals,216,2020-09-22
+761,Abu Dhabi,Mumbai Indians,195,2020-09-23
+762,,Punjab Kings,206,2020-09-24
+763,,Delhi Capitals,175,2020-09-25
+764,Abu Dhabi,Kolkata Knight Riders,142,2020-09-26
+765,,Rajasthan Royals,223,2020-09-27
+766,,Royal Challengers Bengaluru,201,2020-09-28
+767,Abu Dhabi,Sunrisers Hyderabad,162,2020-09-29
+768,,Kolkata Knight Riders,174,2020-09-30
+769,Abu Dhabi,Mumbai Indians,191,2020-10-01
+770,,Sunrisers Hyderabad,164,2020-10-02
+771,Abu Dhabi,Royal Challengers Bengaluru,154,2020-10-03
+772,,Delhi Capitals,228,2020-10-03
+773,,Chennai Super Kings,178,2020-10-04
+774,,Mumbai Indians,208,2020-10-04
+775,,Delhi Capitals,196,2020-10-05
+776,Abu Dhabi,Mumbai Indians,193,2020-10-06
+777,Abu Dhabi,Kolkata Knight Riders,167,2020-10-07
+778,,Sunrisers Hyderabad,201,2020-10-08
+779,,Delhi Capitals,184,2020-10-09
+780,Abu Dhabi,Kolkata Knight Riders,164,2020-10-10
+781,,Royal Challengers Bengaluru,169,2020-10-10
+782,,Rajasthan Royals,158,2020-10-11
+783,Abu Dhabi,Mumbai Indians,162,2020-10-11
+784,,Royal Challengers Bengaluru,194,2020-10-12
+785,,Chennai Super Kings,167,2020-10-13
+786,,Delhi Capitals,161,2020-10-14
+787,,Punjab Kings,171,2020-10-15
+788,Abu Dhabi,Mumbai Indians,148,2020-10-16
+789,,Delhi Capitals,179,2020-10-17
+790,,Royal Challengers Bengaluru,177,2020-10-17
+791,Abu Dhabi,Kolkata Knight Riders,163,2020-10-18
+792,,Punjab Kings,176,2020-10-18
+793,Abu Dhabi,Rajasthan Royals,125,2020-10-19
+794,,Punjab Kings,164,2020-10-20
+795,Abu Dhabi,Royal Challengers Bengaluru,84,2020-10-21
+796,,Sunrisers Hyderabad,154,2020-10-22
+797,,Mumbai Indians,114,2020-10-23
+798,Abu Dhabi,Kolkata Knight Riders,194,2020-10-24
+799,,Punjab Kings,126,2020-10-24
+800,Abu Dhabi,Rajasthan Royals,195,2020-10-25
+801,,Chennai Super Kings,145,2020-10-25
+802,,Punjab Kings,149,2020-10-26
+803,,Sunrisers Hyderabad,219,2020-10-27
+804,Abu Dhabi,Mumbai Indians,164,2020-10-28
+805,,Chennai Super Kings,172,2020-10-29
+806,Abu Dhabi,Rajasthan Royals,185,2020-10-30
+807,,Sunrisers Hyderabad,120,2020-10-31
+808,,Mumbai Indians,110,2020-10-31
+809,Abu Dhabi,Chennai Super Kings,153,2020-11-01
+810,,Kolkata Knight Riders,191,2020-11-01
+811,Abu Dhabi,Delhi Capitals,152,2020-11-02
+812,,Sunrisers Hyderabad,149,2020-11-03
+813,,Mumbai Indians,200,2020-11-05
+814,Abu Dhabi,Sunrisers Hyderabad,131,2020-11-06
+815,Abu Dhabi,Delhi Capitals,189,2020-11-08
+816,,Mumbai Indians,156,2020-11-10
+817,Chennai,Royal Challengers Bengaluru,159,2021-04-09
+818,Mumbai,Delhi Capitals,188,2021-04-10
+819,Chennai,Kolkata Knight Riders,187,2021-04-11
+820,Mumbai,Punjab Kings,221,2021-04-12
+821,Chennai,Mumbai Indians,152,2021-04-13
+822,Chennai,Royal Challengers Bengaluru,149,2021-04-14
+823,Mumbai,Rajasthan Royals,147,2021-04-15
+824,Mumbai,Chennai Super Kings,106,2021-04-16
+825,Chennai,Mumbai Indians,150,2021-04-17
+826,Chennai,Royal Challengers Bengaluru,204,2021-04-18
+827,Mumbai,Delhi Capitals,195,2021-04-18
+828,Mumbai,Chennai Super Kings,188,2021-04-19
+829,Chennai,Delhi Capitals,137,2021-04-20
+830,Chennai,Sunrisers Hyderabad,120,2021-04-21
+831,Mumbai,Chennai Super Kings,220,2021-04-21
+832,Mumbai,Royal Challengers Bengaluru,177,2021-04-22
+833,Chennai,Punjab Kings,131,2021-04-23
+834,Mumbai,Rajasthan Royals,133,2021-04-24
+835,Mumbai,Chennai Super Kings,191,2021-04-25
+836,Chennai,Delhi Capitals,159,2021-04-25
+837,Ahmedabad,Kolkata Knight Riders,123,2021-04-26
+838,Ahmedabad,Royal Challengers Bengaluru,171,2021-04-27
+839,Delhi,Chennai Super Kings,171,2021-04-28
+840,Delhi,Mumbai Indians,171,2021-04-29
+841,Ahmedabad,Delhi Capitals,154,2021-04-29
+842,Ahmedabad,Punjab Kings,179,2021-04-30
+843,Delhi,Mumbai Indians,218,2021-05-01
+844,Delhi,Rajasthan Royals,220,2021-05-02
+845,Ahmedabad,Delhi Capitals,166,2021-05-02
+846,Dubai,Chennai Super Kings,156,2021-09-19
+847,Abu Dhabi,Kolkata Knight Riders,92,2021-09-20
+848,Dubai,Rajasthan Royals,185,2021-09-21
+849,Dubai,Delhi Capitals,134,2021-09-22
+850,Abu Dhabi,Kolkata Knight Riders,155,2021-09-23
+851,Sharjah,Chennai Super Kings,156,2021-09-24
+852,Abu Dhabi,Delhi Capitals,154,2021-09-25
+853,Sharjah,Punjab Kings,125,2021-09-25
+854,Abu Dhabi,Chennai Super Kings,171,2021-09-26
+855,Dubai,Royal Challengers Bengaluru,165,2021-09-26
+856,Dubai,Sunrisers Hyderabad,164,2021-09-27
+857,Sharjah,Kolkata Knight Riders,127,2021-09-28
+858,Abu Dhabi,Mumbai Indians,135,2021-09-28
+859,Dubai,Royal Challengers Bengaluru,149,2021-09-29
+860,Sharjah,Chennai Super Kings,134,2021-09-30
+861,Dubai,Punjab Kings,165,2021-10-01
+862,Abu Dhabi,Rajasthan Royals,189,2021-10-02
+863,Sharjah,Delhi Capitals,129,2021-10-02
+864,Sharjah,Royal Challengers Bengaluru,164,2021-10-03
+865,Dubai,Kolkata Knight Riders,115,2021-10-03
+866,Dubai,Delhi Capitals,136,2021-10-04
+867,Sharjah,Mumbai Indians,90,2021-10-05
+868,Abu Dhabi,Sunrisers Hyderabad,141,2021-10-06
+869,Dubai,Punjab Kings,134,2021-10-07
+870,Sharjah,Kolkata Knight Riders,171,2021-10-07
+871,Abu Dhabi,Mumbai Indians,235,2021-10-08
+872,Dubai,Royal Challengers Bengaluru,164,2021-10-08
+873,Dubai,Chennai Super Kings,172,2021-10-10
+874,Sharjah,Kolkata Knight Riders,138,2021-10-11
+875,Sharjah,Kolkata Knight Riders,135,2021-10-13
+876,Dubai,Chennai Super Kings,192,2021-10-15
+877,Mumbai,Kolkata Knight Riders,131,2022-03-26
+878,Mumbai,Delhi Capitals,177,2022-03-27
+879,Mumbai,Punjab Kings,205,2022-03-27
+880,Mumbai,Gujarat Titans,158,2022-03-28
+881,Pune,Rajasthan Royals,210,2022-03-29
+882,Mumbai,Royal Challengers Bengaluru,128,2022-03-30
+883,Mumbai,Lucknow Super Giants,210,2022-03-31
+884,Mumbai,Kolkata Knight Riders,137,2022-04-01
+885,Mumbai,Rajasthan Royals,193,2022-04-02
+886,Pune,Gujarat Titans,171,2022-04-02
+887,Mumbai,Punjab Kings,180,2022-04-03
+888,Mumbai,Lucknow Super Giants,169,2022-04-04
+889,Mumbai,Royal Challengers Bengaluru,169,2022-04-05
+890,Pune,Kolkata Knight Riders,161,2022-04-06
+891,Mumbai,Lucknow Super Giants,149,2022-04-07
+892,Mumbai,Gujarat Titans,189,2022-04-08
+893,Mumbai,Sunrisers Hyderabad,154,2022-04-09
+894,Pune,Royal Challengers Bengaluru,151,2022-04-09
+895,Mumbai,Delhi Capitals,215,2022-04-10
+896,Mumbai,Rajasthan Royals,165,2022-04-10
+897,Mumbai,Sunrisers Hyderabad,162,2022-04-11
+898,Mumbai,Chennai Super Kings,216,2022-04-12
+899,Pune,Punjab Kings,198,2022-04-13
+900,Mumbai,Gujarat Titans,192,2022-04-14
+901,Mumbai,Sunrisers Hyderabad,175,2022-04-15
+902,Mumbai,Lucknow Super Giants,199,2022-04-16
+903,Mumbai,Royal Challengers Bengaluru,189,2022-04-16
+904,Mumbai,Sunrisers Hyderabad,151,2022-04-17
+905,Pune,Gujarat Titans,169,2022-04-17
+906,Mumbai,Rajasthan Royals,217,2022-04-18
+907,Mumbai,Royal Challengers Bengaluru,181,2022-04-19
+908,Mumbai,Delhi Capitals,115,2022-04-20
+909,Navi Mumbai,Chennai Super Kings,155,2022-04-21
+910,Mumbai,Rajasthan Royals,222,2022-04-22
+911,Navi Mumbai,Gujarat Titans,156,2022-04-23
+912,Mumbai,Sunrisers Hyderabad,68,2022-04-23
+913,Mumbai,Lucknow Super Giants,168,2022-04-24
+914,Mumbai,Punjab Kings,187,2022-04-25
+915,Pune,Rajasthan Royals,144,2022-04-26
+916,Mumbai,Gujarat Titans,195,2022-04-27
+917,Mumbai,Delhi Capitals,146,2022-04-28
+918,Pune,Lucknow Super Giants,153,2022-04-29
+919,Mumbai,Gujarat Titans,170,2022-04-30
+920,Navi Mumbai,Mumbai Indians,158,2022-04-30
+921,Mumbai,Lucknow Super Giants,195,2022-05-01
+922,Pune,Chennai Super Kings,202,2022-05-01
+923,Mumbai,Kolkata Knight Riders,152,2022-05-02
+924,Navi Mumbai,Punjab Kings,143,2022-05-03
+925,Pune,Royal Challengers Bengaluru,173,2022-05-04
+926,Mumbai,Delhi Capitals,207,2022-05-05
+927,Mumbai,Mumbai Indians,177,2022-05-06
+928,Mumbai,Rajasthan Royals,189,2022-05-07
+929,Pune,Lucknow Super Giants,176,2022-05-07
+930,Mumbai,Royal Challengers Bengaluru,192,2022-05-08
+931,Navi Mumbai,Chennai Super Kings,208,2022-05-08
+932,Navi Mumbai,Kolkata Knight Riders,165,2022-05-09
+933,Pune,Gujarat Titans,144,2022-05-10
+934,Navi Mumbai,Delhi Capitals,160,2022-05-11
+935,Mumbai,Mumbai Indians,97,2022-05-12
+936,Mumbai,Punjab Kings,209,2022-05-13
+937,Pune,Kolkata Knight Riders,177,2022-05-14
+938,Mumbai,Gujarat Titans,133,2022-05-15
+939,Mumbai,Rajasthan Royals,178,2022-05-15
+940,Navi Mumbai,Delhi Capitals,159,2022-05-16
+941,Mumbai,Sunrisers Hyderabad,193,2022-05-17
+942,Navi Mumbai,Lucknow Super Giants,210,2022-05-18
+943,Mumbai,Royal Challengers Bengaluru,168,2022-05-19
+944,Mumbai,Rajasthan Royals,150,2022-05-20
+945,Mumbai,Mumbai Indians,159,2022-05-21
+946,Mumbai,Punjab Kings,157,2022-05-22
+947,Kolkata,Gujarat Titans,188,2022-05-24
+948,Kolkata,Royal Challengers Bengaluru,207,2022-05-25
+949,Ahmedabad,Rajasthan Royals,157,2022-05-27
+950,Ahmedabad,Gujarat Titans,130,2022-05-29
+951,Ahmedabad,Gujarat Titans,178,2023-03-31
+953,Lucknow,Lucknow Super Giants,193,2023-04-01
+954,Hyderabad,Rajasthan Royals,203,2023-04-02
+955,Bengaluru,Royal Challengers Bengaluru,171,2023-04-02
+956,Chennai,Chennai Super Kings,217,2023-04-03
+957,Delhi,Gujarat Titans,162,2023-04-04
+958,Guwahati,Punjab Kings,197,2023-04-05
+959,Kolkata,Kolkata Knight Riders,204,2023-04-06
+960,Lucknow,Lucknow Super Giants,121,2023-04-07
+961,Guwahati,Rajasthan Royals,199,2023-04-08
+962,Mumbai,Chennai Super Kings,157,2023-04-08
+963,Ahmedabad,Kolkata Knight Riders,204,2023-04-09
+964,Hyderabad,Sunrisers Hyderabad,143,2023-04-09
+965,Bengaluru,Lucknow Super Giants,212,2023-04-10
+966,Delhi,Mumbai Indians,172,2023-04-11
+967,Chennai,Rajasthan Royals,175,2023-04-12
+968,Chandigarh,Gujarat Titans,153,2023-04-13
+969,Kolkata,Sunrisers Hyderabad,228,2023-04-14
+970,Bengaluru,Royal Challengers Bengaluru,174,2023-04-15
+971,Lucknow,Punjab Kings,159,2023-04-15
+972,Mumbai,Mumbai Indians,185,2023-04-16
+973,Ahmedabad,Rajasthan Royals,177,2023-04-16
+974,Bengaluru,Chennai Super Kings,226,2023-04-17
+975,Hyderabad,Mumbai Indians,192,2023-04-18
+976,Jaipur,Lucknow Super Giants,154,2023-04-19
+977,Chandigarh,Royal Challengers Bengaluru,174,2023-04-20
+978,Delhi,Delhi Capitals,127,2023-04-20
+979,Chennai,Chennai Super Kings,134,2023-04-21
+980,Lucknow,Gujarat Titans,135,2023-04-22
+981,Mumbai,Punjab Kings,214,2023-04-22
+982,Bengaluru,Royal Challengers Bengaluru,189,2023-04-23
+983,Kolkata,Chennai Super Kings,235,2023-04-23
+984,Hyderabad,Delhi Capitals,144,2023-04-24
+985,Ahmedabad,Gujarat Titans,207,2023-04-25
+986,Bengaluru,Kolkata Knight Riders,200,2023-04-26
+987,Jaipur,Rajasthan Royals,202,2023-04-27
+988,Chandigarh,Lucknow Super Giants,257,2023-04-28
+989,Kolkata,Gujarat Titans,179,2023-04-29
+990,Delhi,Sunrisers Hyderabad,197,2023-04-29
+991,Chennai,Punjab Kings,200,2023-04-30
+992,Mumbai,Mumbai Indians,212,2023-04-30
+993,Lucknow,Royal Challengers Bengaluru,126,2023-05-01
+994,Ahmedabad,Delhi Capitals,130,2023-05-02
+995,Lucknow,,125,2023-05-03
+996,Chandigarh,Mumbai Indians,214,2023-05-03
+997,Hyderabad,Kolkata Knight Riders,171,2023-05-04
+998,Jaipur,Gujarat Titans,118,2023-05-05
+999,Chennai,Chennai Super Kings,139,2023-05-06
+1000,Delhi,Delhi Capitals,181,2023-05-06
+1001,Ahmedabad,Gujarat Titans,227,2023-05-07
+1002,Jaipur,Sunrisers Hyderabad,214,2023-05-07
+1003,Kolkata,Kolkata Knight Riders,179,2023-05-08
+1004,Mumbai,Mumbai Indians,199,2023-05-09
+1005,Chennai,Chennai Super Kings,167,2023-05-10
+1006,Kolkata,Rajasthan Royals,149,2023-05-11
+1007,Mumbai,Mumbai Indians,218,2023-05-12
+1008,Hyderabad,Lucknow Super Giants,182,2023-05-13
+1009,Delhi,Punjab Kings,167,2023-05-13
+1010,Jaipur,Royal Challengers Bengaluru,171,2023-05-14
+1011,Chennai,Kolkata Knight Riders,144,2023-05-14
+1012,Ahmedabad,Gujarat Titans,188,2023-05-15
+1013,Lucknow,Lucknow Super Giants,177,2023-05-16
+1014,Dharamsala,Delhi Capitals,213,2023-05-17
+1015,Hyderabad,Royal Challengers Bengaluru,186,2023-05-18
+1016,Dharamsala,Rajasthan Royals,187,2023-05-19
+1017,Delhi,Chennai Super Kings,223,2023-05-20
+1018,Kolkata,Lucknow Super Giants,176,2023-05-20
+1019,Mumbai,Mumbai Indians,200,2023-05-21
+1020,Bengaluru,Gujarat Titans,197,2023-05-21
+1021,Chennai,Chennai Super Kings,172,2023-05-23
+1022,Chennai,Mumbai Indians,182,2023-05-24
+1023,Ahmedabad,Gujarat Titans,233,2023-05-26
+1025,Chennai,Chennai Super Kings,173,2024-03-22
+1026,Mohali,Punjab Kings,174,2024-03-23
+1027,Kolkata,Kolkata Knight Riders,208,2024-03-23
+1028,Jaipur,Rajasthan Royals,193,2024-03-24
+1029,Ahmedabad,Gujarat Titans,168,2024-03-24
+1030,Bengaluru,Royal Challengers Bengaluru,176,2024-03-25
+1031,Chennai,Chennai Super Kings,206,2024-03-26
+1032,Hyderabad,Sunrisers Hyderabad,277,2024-03-27
+1033,Jaipur,Rajasthan Royals,185,2024-03-28
+1034,Bengaluru,Kolkata Knight Riders,182,2024-03-29
+1035,Lucknow,Lucknow Super Giants,199,2024-03-30
+1036,Ahmedabad,Gujarat Titans,162,2024-03-31
+1037,Visakhapatnam,Delhi Capitals,191,2024-03-31
+1038,Mumbai,Rajasthan Royals,125,2024-04-01
+1039,Bengaluru,Lucknow Super Giants,181,2024-04-02
+1040,Visakhapatnam,Kolkata Knight Riders,272,2024-04-03
+1041,Ahmedabad,Punjab Kings,199,2024-04-04
+1042,Hyderabad,Sunrisers Hyderabad,165,2024-04-05
+1043,Jaipur,Rajasthan Royals,183,2024-04-06
+1044,Mumbai,Mumbai Indians,234,2024-04-07
+1045,Lucknow,Lucknow Super Giants,163,2024-04-07
+1046,Chennai,Chennai Super Kings,137,2024-04-08
+1047,Mohali,Sunrisers Hyderabad,182,2024-04-09
+1048,Jaipur,Gujarat Titans,196,2024-04-10
+1049,Mumbai,Mumbai Indians,196,2024-04-11
+1050,Lucknow,Delhi Capitals,167,2024-04-12
+1051,Mohali,Rajasthan Royals,147,2024-04-13
+1052,Kolkata,Kolkata Knight Riders,161,2024-04-14
+1053,Mumbai,Chennai Super Kings,206,2024-04-14
+1054,Bengaluru,Sunrisers Hyderabad,287,2024-04-15
+1055,Kolkata,Rajasthan Royals,223,2024-04-16
+1056,Ahmedabad,Delhi Capitals,89,2024-04-17
+1057,Mohali,Mumbai Indians,192,2024-04-18
+1058,Lucknow,Lucknow Super Giants,176,2024-04-19
+1059,Delhi,Sunrisers Hyderabad,266,2024-04-20
+1060,Kolkata,Kolkata Knight Riders,222,2024-04-21
+1061,Mohali,Gujarat Titans,142,2024-04-21
+1062,Jaipur,Rajasthan Royals,179,2024-04-22
+1063,Chennai,Lucknow Super Giants,210,2024-04-23
+1064,Delhi,Delhi Capitals,224,2024-04-24
+1065,Hyderabad,Royal Challengers Bengaluru,206,2024-04-25
+1066,Kolkata,Punjab Kings,261,2024-04-26
+1067,Delhi,Delhi Capitals,257,2024-04-27
+1068,Lucknow,Rajasthan Royals,196,2024-04-27
+1069,Ahmedabad,Royal Challengers Bengaluru,200,2024-04-28
+1070,Chennai,Chennai Super Kings,212,2024-04-28
+1071,Kolkata,Kolkata Knight Riders,153,2024-04-29
+1072,Lucknow,Lucknow Super Giants,144,2024-04-30
+1073,Chennai,Punjab Kings,162,2024-05-01
+1074,Hyderabad,Sunrisers Hyderabad,201,2024-05-02
+1075,Mumbai,Kolkata Knight Riders,169,2024-05-03
+1076,Bengaluru,Royal Challengers Bengaluru,147,2024-05-04
+1077,Dharamsala,Chennai Super Kings,167,2024-05-05
+1078,Lucknow,Kolkata Knight Riders,235,2024-05-05
+1079,Mumbai,Mumbai Indians,173,2024-05-06
+1080,Delhi,Delhi Capitals,221,2024-05-07
+1081,Hyderabad,Sunrisers Hyderabad,165,2024-05-08
+1082,Dharamsala,Royal Challengers Bengaluru,241,2024-05-09
+1083,Ahmedabad,Gujarat Titans,231,2024-05-10
+1084,Kolkata,Kolkata Knight Riders,157,2024-05-11
+1085,Chennai,Chennai Super Kings,141,2024-05-12
+1086,Bengaluru,Royal Challengers Bengaluru,187,2024-05-12
+1087,Delhi,Delhi Capitals,208,2024-05-14
+1088,Guwahati,Punjab Kings,144,2024-05-15
+1089,Mumbai,Lucknow Super Giants,214,2024-05-17
+1090,Bengaluru,Royal Challengers Bengaluru,218,2024-05-18
+1091,Hyderabad,Sunrisers Hyderabad,214,2024-05-19
+1092,Ahmedabad,Kolkata Knight Riders,159,2024-05-21
+1093,Ahmedabad,Rajasthan Royals,172,2024-05-22
+1094,Chennai,Sunrisers Hyderabad,175,2024-05-24
+1095,Chennai,Kolkata Knight Riders,113,2024-05-26

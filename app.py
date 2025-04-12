@@ -4,35 +4,24 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-
-teams = ['Royal Challengers Bengaluru',
- 'Mumbai Indians',
- 'Kolkata Knight Riders',
- 'Rajasthan Royals',
- 'Chennai Super Kings',
- 'Sunrisers Hyderabad',
- 'Delhi Capitals',
- 'Punjab Kings',
- 'Lucknow Super Giants',
- 'Gujarat Titans']
-
-cities = ['Bangalore', 'Chandigarh', 'Delhi', 'Mumbai', 'Kolkata', 'Jaipur',
-       'Hyderabad', 'Chennai', 'Cape Town', 'Port Elizabeth', 'Durban',
-       'Centurion', 'East London', 'Johannesburg', 'Kimberley',
-       'Bloemfontein', 'Ahmedabad', 'Cuttack', 'Nagpur', 'Dharamsala',
-       'Visakhapatnam', 'Pune', 'Raipur', 'Ranchi', 'Abu Dhabi',
-       'Bengaluru', 'Indore', 'Dubai', 'Sharjah', 'Navi Mumbai',
-       'Lucknow', 'Guwahati', 'Mohali']
-
-pipe = pickle.load(open('pipe.pkl','rb'))
+# Load necessary data and model
+pipe = pickle.load(open('pipe.pkl', 'rb'))
 delivery_df = pd.read_csv("delivery_df.csv")
+teams = ['Royal Challengers Bengaluru', 'Mumbai Indians', 'Kolkata Knight Riders', 'Rajasthan Royals',
+         'Chennai Super Kings', 'Sunrisers Hyderabad', 'Delhi Capitals', 'Punjab Kings', 'Lucknow Super Giants',
+         'Gujarat Titans']
+cities = ['Bangalore', 'Chandigarh', 'Delhi', 'Mumbai', 'Kolkata', 'Jaipur', 'Hyderabad', 'Chennai', 'Cape Town',
+          'Port Elizabeth', 'Durban', 'Centurion', 'East London', 'Johannesburg', 'Kimberley', 'Bloemfontein',
+          'Ahmedabad', 'Cuttack', 'Nagpur', 'Dharamsala', 'Visakhapatnam', 'Pune', 'Raipur', 'Ranchi', 'Abu Dhabi',
+          'Bengaluru', 'Indore', 'Dubai', 'Sharjah', 'Navi Mumbai', 'Lucknow', 'Guwahati', 'Mohali']
 
 
+# Match Progression Function for Visualization Page
 def match_progression(x_df, match_id, pipe):
     match = x_df[x_df['match_id'] == match_id]
-    match = match[(match['ball'] == 6)]
-    temp_df = match[['batting_team', 'bowling_team', 'city', 'runs_left', 'balls_left',
-                     'wickets_left', 'total_runs_x', 'crr', 'rrr']].dropna()
+    match = match[(match['ball'] == 6)]  # Get end-of-over data
+    temp_df = match[['batting_team', 'bowling_team', 'city', 'runs_left', 'balls_left', 'wickets_left',
+                     'total_runs_x', 'crr', 'rrr']].dropna()
     temp_df = temp_df[temp_df['balls_left'] != 0]
     result = pipe.predict_proba(temp_df)
     temp_df['lose'] = np.round(result.T[0] * 100, 1)
@@ -56,59 +45,102 @@ def match_progression(x_df, match_id, pipe):
     return temp_df, target
 
 
+# Streamlit UI
 st.title('IPL Win Predictor')
 
-col1, col2 = st.columns(2)
+# Sidebar for navigation
+page = st.sidebar.selectbox("Choose a page", ["Prediction", "Visualization"])
 
-with col1:
-    batting_team = st.selectbox('Select the batting team',sorted(teams))
-with col2:
-    bowling_team = st.selectbox('Select the bowling team',sorted(teams))
+if page == "Prediction":
+    # Prediction page code
+    st.header("Predict Match Outcome")
 
-selected_city = st.selectbox('Select host city',sorted(cities))
+    col1, col2 = st.columns(2)
+    with col1:
+        batting_team = st.selectbox('Select the batting team', sorted(teams))
+    with col2:
+        bowling_team = st.selectbox('Select the bowling team', sorted(teams))
 
-target = st.number_input('Target')
+    selected_city = st.selectbox('Select host city', sorted(cities))
 
-col3,col4,col5 = st.columns(3)
+    target = st.number_input('Target')
 
-with col3:
-    score = st.number_input('Score')
-with col4:
-    overs = st.number_input('Overs completed')
-with col5:
-    wickets = st.number_input('Wickets out')
+    col3, col4, col5 = st.columns(3)
+    with col3:
+        score = st.number_input('Score')
+    with col4:
+        overs = st.number_input('Overs completed')
+    with col5:
+        wickets = st.number_input('Wickets out')
 
-if st.button('Predict Probability'):
-    runs_left = target - score
-    balls_left = 120 - (overs*6)
-    wickets = 10 - wickets
-    crr = score/overs
-    rrr = (runs_left*6)/balls_left
+    if st.button('Predict Probability'):
+        runs_left = target - score
+        balls_left = 120 - (overs * 6)
+        wickets = 10 - wickets
+        crr = score / overs
+        rrr = (runs_left * 6) / balls_left
 
-    input_df = pd.DataFrame({'batting_team':[batting_team],'bowling_team':[bowling_team],'city':[selected_city],'runs_left':[runs_left],'balls_left':[balls_left],'wickets_left':[wickets],'total_runs_x':[target],'crr':[crr],'rrr':[rrr]})
+        input_df = pd.DataFrame(
+            {'batting_team': [batting_team], 'bowling_team': [bowling_team], 'city': [selected_city],
+             'runs_left': [runs_left], 'balls_left': [balls_left], 'wickets_left': [wickets],
+             'total_runs_x': [target], 'crr': [crr], 'rrr': [rrr]})
 
-    result = pipe.predict_proba(input_df)
-    loss = result[0][0]
-    win = result[0][1]
-    st.header(batting_team + "- " + str(round(win*100)) + "%")
-    st.header(bowling_team + "- " + str(round(loss*100)) + "%")
+        result = pipe.predict_proba(input_df)
+        loss = result[0][0]
+        win = result[0][1]
+        st.header(f"{batting_team} - {round(win * 100)}%")
+        st.header(f"{bowling_team} - {round(loss * 100)}%")
 
-st.subheader("📊 Match Trend Visualization")
+elif page == "Visualization":
+    # Visualization page code
+    st.header("Visualize Match Progression")
 
-match_ids = sorted(delivery_df['match_id'].unique())
-selected_match_id = st.selectbox("Select Match ID", match_ids)
+    col1, col2 = st.columns(2)
+    with col1:
+        team1 = st.selectbox('Select Team 1', sorted(teams))
+    with col2:
+        team2 = st.selectbox('Select Team 2', sorted(teams))
 
-if st.button("Show Match Trend"):
-    temp_df, target = match_progression(delivery_df, selected_match_id, pipe)
+    # Get available dates for selected teams
+    match_dates = delivery_df[
+        ((delivery_df['batting_team'] == team1) & (delivery_df['bowling_team'] == team2)) |
+        ((delivery_df['batting_team'] == team2) & (delivery_df['bowling_team'] == team1))
+        ]['date'].unique()
 
-    fig, ax = plt.subplots(figsize=(18,8))
-    ax.plot(temp_df['end_of_over'], temp_df['wickets_in_over'], color='yellow', linewidth=3, label='Wickets in Over')
-    ax.plot(temp_df['end_of_over'], temp_df['win'], color='#00a65a', linewidth=4, label='Win %')
-    ax.plot(temp_df['end_of_over'], temp_df['lose'], color='red', linewidth=4, label='Lose %')
-    ax.bar(temp_df['end_of_over'], temp_df['runs_after_over'], alpha=0.6, label='Runs in Over')
+    selected_date = st.selectbox("Select Match Date", sorted(match_dates))
 
-    ax.set_title(f'Match Progression (Target: {target})')
-    ax.set_xlabel("Overs")
-    ax.set_ylabel("Stats")
-    ax.legend()
-    st.pyplot(fig)
+    # Get match IDs for selected teams and date
+    available_matches = delivery_df[
+        (((delivery_df['batting_team'] == team1) & (delivery_df['bowling_team'] == team2)) |
+         ((delivery_df['batting_team'] == team2) & (delivery_df['bowling_team'] == team1))) &
+        (delivery_df['date'] == selected_date)
+        ]['match_id'].unique()
+
+    selected_match_id = st.selectbox("Select Match", available_matches)
+
+    if st.button("Show Match Trend"):
+        temp_df, target = match_progression(delivery_df, selected_match_id, pipe)
+
+        fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(18, 12))
+
+        # Win/Loss Probability Plot
+        ax1.plot(temp_df['end_of_over'], temp_df['win'], color='green', linewidth=3, label=f'{team1} Win %')
+        ax1.plot(temp_df['end_of_over'], temp_df['lose'], color='red', linewidth=3, label=f'{team2} Win %')
+        ax1.set_title(f'Win Probability (Target: {target})')
+        ax1.set_xlabel("Overs")
+        ax1.set_ylabel("Probability (%)")
+        ax1.legend()
+        ax1.grid(True)
+
+        # Runs and Wickets Plot
+        ax2.bar(temp_df['end_of_over'], temp_df['runs_after_over'], color='blue', alpha=0.6, label='Runs in Over')
+        ax2.plot(temp_df['end_of_over'], temp_df['wickets_in_over'], color='orange', marker='o',
+                 linewidth=3, label='Wickets in Over')
+        ax2.set_title('Runs and Wickets per Over')
+        ax2.set_xlabel("Overs")
+        ax2.set_ylabel("Runs/Wickets")
+        ax2.legend()
+        ax2.grid(True)
+
+        plt.tight_layout()
+        st.pyplot(fig)
